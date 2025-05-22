@@ -117,7 +117,7 @@ class _NavigationScreenState extends State<NavigationScreen> {
         mode: TravelMode.driving,
       ),
       googleApiKey:
-          'AIzaSyAnq1QUDsJDkz-lVRuu_p2auC5lvyy1UJU', // Replace with your key or handle accordingly
+          'Your_API_KEY', // Replace with your key or handle accordingly
     );
 
     if (result.points.isEmpty) {
